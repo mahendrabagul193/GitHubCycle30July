@@ -8,6 +8,7 @@ public class Demo1 {
 		System.out.println("Home Page Test Case by Tester1");
 		System.out.println("Validate Logo by Tester 2");
 		System.out.println(" Validate PIM page by Tester1");
+		System.out.println("Add Employee by Tester2");
 	}
 	
 	
