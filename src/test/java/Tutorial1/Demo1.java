@@ -10,6 +10,7 @@ public class Demo1 {
 		System.out.println(" Validate PIM page by Tester1");
 		System.out.println("Add Employee by Tester2");
 		System.out.println("Validate Added Employee by Tester1");
+		System.out.println("validate delete added employee by Tester2");
 	}
 	
 	
